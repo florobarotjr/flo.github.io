@@ -1,2 +1,2 @@
-# potatertots.github.io
+# flo.github.io
 for github pages
